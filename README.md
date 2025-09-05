@@ -1,1 +1,2 @@
-# -
+CCard.h是每张牌的一个类
+目前好像就在CtestDoc、CCard和CtestView里面加了代码
